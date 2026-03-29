@@ -19,7 +19,8 @@
 ###
 
 <h3 align="center">Hi, I’m Zuhayer Tajbid, a 3rd-year (1st semester) Computer Science & Engineering student at RUET.</h3>
-
+<br>
+<br>
 
 ###
 
@@ -28,14 +29,17 @@
 ###
 
 
-<p align="left">I’m passionate about building impactful technology, with a strong focus on <b>Flutter app development</b> and <b>Machine Learning</b>.<br><br>I enjoy creating practical applications that solve real-world problems, combining clean UI with intelligent backend systems. Alongside development, I’m continuously exploring new technologies to strengthen my skills and stay aligned with industry trends.<br><br><br>🚀 Interests:<br><br>Mobile App Development (Flutter)<br>Machine Learning & AI<br>Problem Solving & Software Development<br><br>I’m always open to learning, collaborating, and building innovative projects.</p>
-
+<p align="left">I’m passionate about building impactful technology, with a strong focus on <b>Flutter app development</b> and <b>Machine Learning</b>.<br><br>I enjoy creating practical applications that solve real-world problems, combining clean UI with intelligent backend systems. Alongside development, I’m continuously exploring new technologies to strengthen my skills and stay aligned with industry trends.<br><br><br>🚀 <b>Interests:</b>b<br><br>Mobile App Development (Flutter)<br>Machine Learning & AI<br>Problem Solving & Software Development<br><br>I’m always open to learning, collaborating, and building innovative projects.</p>
+<br>
+<br>
 
 ###
 
  
 <h3 align="left">🛠 Language and tools</h3>
 
+<br>
+<br>
 
 ###
 
@@ -74,9 +78,11 @@
 
 ###
 
+<br>
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<br>
+<br>
 ###
 
 <div align="center">
@@ -85,7 +91,7 @@
 
 
 ###
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zuhayer-Tajbid /Zuhayer-Tajbid /output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zuhayer-Tajbid /Zuhayer-Tajbid /output/pacman-contribution-graph.svg">
