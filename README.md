@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I’m passionate about building impactful technology, with a strong focus on **Flutter app development** and **Machine Learning**.<br><br>I enjoy creating practical applications that solve real-world problems, combining clean UI with intelligent backend systems. Alongside development, I’m continuously exploring new technologies to strengthen my skills and stay aligned with industry trends.<br><br><br>🚀 Interests:<br><br>Mobile App Development (Flutter)<br>Machine Learning & AI<br>Problem Solving & Software Development<br><br>I’m always open to learning, collaborating, and building innovative projects.</p>
+<p align="left">I’m passionate about building impactful technology, with a strong focus on <b>Flutter app development</b> and <b>Machine Learning</b>.<br><br>I enjoy creating practical applications that solve real-world problems, combining clean UI with intelligent backend systems. Alongside development, I’m continuously exploring new technologies to strengthen my skills and stay aligned with industry trends.<br><br><br>🚀 Interests:<br><br>Mobile App Development (Flutter)<br>Machine Learning & AI<br>Problem Solving & Software Development<br><br>I’m always open to learning, collaborating, and building innovative projects.</p>
 
 ###
 
@@ -73,15 +73,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zuhayer-Tajbid &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Zuhayer-Tajbid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zuhayer-Tajbid /Zuhayer-Tajbid /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zuhayer-Tajbid /Zuhayer-Tajbid /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zuhayer-Tajbid /Zuhayer-Tajbid /output/pacman-contribution-graph.svg">
-</picture>
-
-###
