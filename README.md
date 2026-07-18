@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Hi, I’m Zuhayer Tajbid, a 3rd-year (1st semester) Computer Science & Engineering student at RUET.</h3>
+<h3 align="center">Hi, I’m Zuhayer Tajbid, a 3rd-year (2nd semester) Computer Science & Engineering student at RUET.</h3>
 
 
 ###
